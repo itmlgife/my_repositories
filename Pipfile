@@ -5,8 +5,12 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+ipython = "*"
 
 [packages]
+boto3 = "*"
+click = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.7"
