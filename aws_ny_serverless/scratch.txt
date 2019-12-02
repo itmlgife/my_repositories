@@ -1,0 +1,15 @@
+$ git add .
+$ git config --global user.email "<EMAIL ADDRESS>"
+$ git config --global user.name "<USER NAME>"
+$ git commit -m "initial checkin of website code"
+$ git push
+
+git add index.html 
+$ git commit -m "updated title"
+
+App Client Id = 5llo9t9dvqh320g29t24p5a21
+
+DynamoDB arn: arn:aws:dynamodb:us-east-2:430369095510:table/Rides
+
+
+us-east-2:b3616c86-8e3f-453c-9a1b-a06c44b7606d

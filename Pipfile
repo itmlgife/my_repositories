@@ -11,6 +11,8 @@ ipython = "*"
 boto3 = "*"
 click = "*"
 tqdm = "*"
+fake-factory = "*"
+multiprocessing = "*"
 
 [requires]
 python_version = "3.7"
